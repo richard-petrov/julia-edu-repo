@@ -1,14 +1,11 @@
 ### A Pluto.jl notebook ###
-# v0.17.3
+# v0.18.4
 
 using Markdown
 using InteractiveUtils
 
-# ╔═╡ f4231d4e-e58f-4e1c-83b6-57d1e9502388
+# ╔═╡ 06856530-442c-11ef-3d71-e1ec33094dd7
 
-
-# ╔═╡ 80c7ef40-4425-11ef-1114-25df0457368c
-println("Hello, Julia")
 
 # ╔═╡ 00000000-0000-0000-0000-000000000001
 PLUTO_PROJECT_TOML_CONTENTS = """
@@ -27,7 +24,6 @@ project_hash = "da39a3ee5e6b4b0d3255bfef95601890afd80709"
 """
 
 # ╔═╡ Cell order:
-# ╠═f4231d4e-e58f-4e1c-83b6-57d1e9502388
-# ╠═80c7ef40-4425-11ef-1114-25df0457368c
+# ╠═06856530-442c-11ef-3d71-e1ec33094dd7
 # ╟─00000000-0000-0000-0000-000000000001
 # ╟─00000000-0000-0000-0000-000000000002
